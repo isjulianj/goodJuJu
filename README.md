@@ -1,2 +1,0 @@
-# goodJuJu
-Java course
